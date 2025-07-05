@@ -16,8 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD candidate in economics at [MIT](https://economics.mit.edu/), where I am supported by the [National Science Foundation](https://www.nsfgrfp.org/). I do research in behavioral and labor economics, with a focus on the digital economy. 
+Hello! I am a Postdoctoral Researcher in the Department of Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) and a Research Associate affiliated with the SDG Nexus Network at [Justus Liebig University Giessen](https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus), Germany. My research interest lies at the intersection of natural resource economics, development economics, and applied econometrics. I am particularly interested in understanding how economic agents interact with natural capital in both developed and developing country contexts. 
 
-I graduated from MIT in 2019 with an SB in mathematical economics and chemical-biological engineering. Before my PhD, I did research in genoeconomics at the [National Bureau of Economic Research](https://www.nber.org/). 
-
-Outside of economics, my interests include running to cafes, drinking matcha lattes, sampling hot sauces, playing violin, and listening to pop trash. 
+In addition to my research, I also teach courses in Statistical & R Programming, and Environmental and Natural Resource Economics, both at the undergraduate and graduate level at Universidad de los Andes.
