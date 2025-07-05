@@ -175,7 +175,7 @@ nav_order: 2
     (Marco, J et al.)
   </div>
   <div style="margin-top: 4px; font-weight: 500; font-size: 13px; color: #555;">
-    Total Environmental Advances, Junio 2025
+    Total Environmental Advances, June 2025
   </div>
 
   <!-- Abstract -->
