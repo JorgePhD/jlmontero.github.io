@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<h2 style="color: rgb(138, 36, 36); margin-top: 0em;">Selected Works in Progress</h2>
+<h2 style="color: rgb(138, 36, 36); margin-top: 0em;">Working Papers</h2>
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
@@ -75,7 +75,7 @@ nav_order: 2
   <!-- Title and PDF in a single row -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
     <div style="flex: 1; font-weight: bold; font-size: 16px;">
-      Polygenic Prediction Within and Between Families from a 3-Million-Person GWAS of Educational Attainment
+       Network-Based Assessment of Multi-Scale Resilience in the Water-Energy-Land-Food Nexus: A Case Study in the Colombian Caribbean
     </div>
     <a href="/assets/papers/ea4.pdf" 
        target="_blank"
@@ -207,18 +207,43 @@ nav_order: 2
 <br>
 
 
-<h2 style="color: rgb(138, 36, 36); margin-top: 0em;">Other</h2>
+<h2 style="color: rgb(138, 36, 36); margin-top: 0em;">Selected Works in Progress</h2>
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
   <!-- Title and PDF in a single row -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
     <div style="flex: 1; font-weight: bold; font-size: 16px;">
-      Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections
+      Does Conservation Influence Local Public Finances? Evidence from Colombian Municipalities.
     </div>
   </div>
 
-  <!-- Coauthor and Journal -->
-  <div style="margin-top: 4px; font-weight: 500; font-size: 13px; color: #555;">
-    MIT Undergraduate Journal of Economics, May 2019
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <!-- Title and PDF in a single row -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="flex: 1; font-weight: bold; font-size: 16px;">
+      MPA governance and fishing activity in Indonesia</div>
+    <div style="margin-top: 4px; font-size: 14px;">
+        (with <a href="https://andriesrichter.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Andries Richter</a>, <a href="https://annabatayo.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Anna Abatayo</a>)
+      </div>
   </div>
 
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <!-- Title and PDF in a single row -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="flex: 1; font-weight: bold; font-size: 16px;">
+      Impacts of dams on freshwater fish diversity in amazon</div>
+    <div style="margin-top: 4px; font-size: 14px;">
+        (with <a href="https://sites.google.com/monash.edu/benjamin-chipperfield/home" style="color: rgb(138, 36, 36); text-decoration: none;">Benjamin Chipperfield</a>)
+      </div>
+  </div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+  <!-- Title and PDF in a single row -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="flex: 1; font-weight: bold; font-size: 16px;">
+      Fishery bans and local development.
+    </div>
+  </div>
+
+  
