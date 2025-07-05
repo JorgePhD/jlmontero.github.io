@@ -7,4 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-Please find my CV [here](https://github.com/JorgePhD/jlmontero.github.io/blob/master/assets/cv/cv.pdf). 
+Please find my CV [here](https://jorgephd.github.io/jlmontero.github.io/assets/cv/cv.pdf). 
