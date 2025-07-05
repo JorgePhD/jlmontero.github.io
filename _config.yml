@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nancy Wang # the website title (if blank, full name will be used instead)
-first_name: Nancy
+title: Jorge Montero # the website title (if blank, full name will be used instead)
+first_name: Jorge
 middle_name: 
-last_name: Wang
-email: wangn@mit.edu
+last_name: Montero
+email: jl.montero@uniandes.edu.co
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
@@ -16,7 +16,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://nancywang3.github.io # the base hostname & protocol for your site
+url: https://jlmontero.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -73,9 +73,9 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: nancy-wang-a88303102 # your LinkedIn user name
+linkedin_username: jorge-luis-montero-mestre-9b27a8150 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: ntAWWKIAAAAJ # your Google Scholar ID
+scholar_userid: kztSTOIAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
