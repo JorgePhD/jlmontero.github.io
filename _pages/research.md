@@ -19,7 +19,7 @@ nav_order: 2
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>, <a style="color: rgb(138, 36, 36); text-decoration: none;">Rocio Moreno- Sanchez</a>, and <a style="color: rgb(138, 36, 36); text-decoration: none;">Myriam Vargas-Morales</a>)
       </div>
     </div>
-    <a href="/assets/papers/JEEM-D-25-00547.pdf" 
+    <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/JEEM-D-25-00547.pdf" 
        target="_blank"
        style="padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
@@ -47,7 +47,7 @@ nav_order: 2
         (with <a href="https://www.efdinitiative.org/about-efd/people/renau-jorge-marco" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Marco</a>)
       </div>
     </div>
-    <a href="/assets/papers/Fuel_Subsidies_Fishing.pdf" 
+    <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Fuel_Subsidies_Fishing.pdf" 
        target="_blank"
        style="padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
@@ -75,7 +75,7 @@ nav_order: 2
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>, and <a style="color: rgb(138, 36, 36); text-decoration: none;">Rocio Moreno- Sanchez</a>)
       </div>
     </div>
-    <a href="/assets/papers/Amazon_SDGN.pdf" 
+    <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Amazon_SDGN.pdf" 
        target="_blank"
        style="padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
@@ -103,7 +103,7 @@ nav_order: 2
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>)
       </div>
     </div>
-    <a href="/assets/papers/Esfuerzos_de_Pesca_y_MPAs.pdf" 
+    <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Esfuerzos_de_Pesca_y_MPAs.pdf" 
        target="_blank"
        style="padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
@@ -131,7 +131,7 @@ nav_order: 2
         (with <a href="https://jobonill.wixsite.com/jorgebonilla" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Bonilla</a>)
       </div>
     </div>
-    <a href="/assets/papers/Lockdown_and_Fishing.pdf" 
+    <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Lockdown_and_Fishing.pdf" 
        target="_blank"
        style="padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
@@ -163,7 +163,7 @@ nav_order: 2
     <div style="flex: 1; font-weight: bold; font-size: 16px;">
        Network-Based Assessment of Multi-Scale Resilience in the Water-Energy-Land-Food Nexus: A Case Study in the Colombian Caribbean
     </div>
-    <a href="/assets/papers/TeAd_2025.pdf" 
+    <a href="https://www.sciencedirect.com/science/article/pii/S2950395725000116?via%3Dihub" 
        target="_blank"
        style="white-space: nowrap; padding: 5px 12px; background-color: rgb(138, 36, 36); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
       PDF
