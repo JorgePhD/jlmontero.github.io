@@ -18,6 +18,9 @@ nav_order: 2
       <div style="margin-top: 4px; font-size: 14px;">
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>, <a style="color: rgb(138, 36, 36); text-decoration: none;">Rocio Moreno- Sanchez</a>, and <a style="color: rgb(138, 36, 36); text-decoration: none;">Myriam Vargas-Morales</a>)
       </div>
+      <div style="font-weight: bold; font-size: 16px;">
+        R&R Journal of Environmental Economics and Management 
+      </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/JEEM-D-25-00547.pdf" 
        target="_blank"
@@ -42,9 +45,12 @@ nav_order: 2
   <!-- Title and PDF -->
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
     <div>
-      <div style="font-weight: bold; font-size: 16px;">Examining Fuel Subsidy Effects on Fishing Activity in the East China Sea.</div>
+      <div style="font-weight: bold; font-size: 16px;">How Fuel Subsidy Reductions Reshaped Fishing Activity: Evidence from China’s Policy Reform in the East China Sea.</div>
       <div style="margin-top: 4px; font-size: 14px;">
         (with <a href="https://www.efdinitiative.org/about-efd/people/renau-jorge-marco" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Marco</a>)
+      </div>
+      <div style="font-weight: bold; font-size: 16px;">
+        Under Revision Environmental and Resource Economics 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Fuel_Subsidies_Fishing.pdf" 
@@ -58,7 +64,8 @@ nav_order: 2
   <details style="margin-top: 12px; border-top: 1px solid #ddd; padding-top: 10px;">
     <summary style="cursor: pointer; font-weight: 500; font-size: 14px; color: rgb(138, 36, 36);">Abstract</summary>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-    Input subsidies reduce marginal costs, driving overexploitation and raising concerns about marine ecosystem sustainability—particularly in regions with high levels of Illegal, Unreported, and Unregulated (IUU) fishing. We examine the impact of the fuel subsidies provision on fishing activity and unauthorized fishing following a reform of the fuel subsidy program introduced in 2016 by the Chinese government. The Chinese government has been known for providing a wide variety of subsidies within its economy to strengthen its economic position relative to other world economies. In 2016, China introduced a reform to its fuel subsidy program for fishing fleets due to high levels of subsidy expenditure, fuel consumption, and overfishing. Using the discontinuities introduced by the reform, we find that after the reform, the hours of unauthorized fishing increased, particularly in Taiwan and in disputed areas. Vessels that receive a greater amount of subsidies reduce their activity within national waters and increase their operations in foreign waters, potentially leading to overexploitation of fish stocks in international waters and conflicts with neighboring countries over disputed fishing grounds. The results suggest that subsidies decrease the level of compliance among fishers and encourage IUU fishing.
+    This study examines the impact of fuel subsidy provision on fishing activity and unauthorized fishing following a 2016 reform to China’s fuel subsidy program for its fishing fleet, focusing on how fishers responded to the differential policy change. The reform reduced the total average subsidy payment by 69%, with larger vessels receiving 15.8% more relative to smaller vessels. This reform was driven by concerns about excessive government spending, high fuel consumption, and overfishing. We develop a theoretical model to explain these dynamics and validate its predictions using a Difference-in-Differences approach. Our findings show that total fishing decreased, while unauthorized fishing hours increased in 16.6% after the reform, particularly in Taiwan and in disputed maritime zones. Furthermore, vessels that received lower subsidies were 2.5% more likely to exit the fishing sector, while those that remained increased their fishing-to-subsidy ratio as a strategy to compensate for the loss of competitiveness.   
+
 
     </p>
   </details>
@@ -73,6 +80,9 @@ nav_order: 2
       <div style="font-weight: bold; font-size: 16px;">Deforestation in the Colombian Amazon Biome: Socioeconomic and Socio-Environmental Conflict Drivers</div>
       <div style="margin-top: 4px; font-size: 14px;">
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>, and <a style="color: rgb(138, 36, 36); text-decoration: none;">Rocio Moreno- Sanchez</a>)
+      </div>
+      <div style="font-weight: bold; font-size: 16px;">
+        Under Revision World Development 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Amazon_SDGN.pdf" 
@@ -98,9 +108,12 @@ nav_order: 2
   <!-- Title and PDF -->
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
     <div>
-      <div style="font-weight: bold; font-size: 16px;">Illuminating the Shadows: Assessing Compliance and Effectiveness in Marine Protected Areas with Satellite Imagery and AIS Data</div>
+      <div style="font-weight: bold; font-size: 16px;">Illuminating the Shadows: Assessing Compliance and Effectiveness in Marine Protected Areas Using Satellite and Vessel Tracking Data</div>
       <div style="margin-top: 4px; font-size: 14px;">
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>)
+      </div>
+      <div style="font-weight: bold; font-size: 16px;">
+        In Preparation Marine Policy 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Esfuerzos_de_Pesca_y_MPAs.pdf" 
@@ -193,22 +206,24 @@ nav_order: 2
 <h2 style="color: rgb(138, 36, 36); margin-top: 0em;">Selected Works in Progress</h2>
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
-  <!-- Title and PDF in a single row -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-    <div style="flex: 1; font-weight: bold; font-size: 16px;">
-      Does Conservation Influence Local Public Finances? Evidence from Colombian Municipalities
-    </div>
-  </div>
-</div>
+
 
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <!-- Title and PDF in a single row -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
     <div style="flex: 1; font-weight: bold; font-size: 16px;">
-      MPA governance and fishing activity in Indonesia</div>
+      Agricultural-Rural credits and Deforestation in Colombia </div>
     <div style="margin-top: 4px; font-size: 14px;">
-        (with <a href="https://andriesrichter.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Andries Richter</a>, <a href="https://annabatayo.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Anna Abatayo</a>)
+        (with <a href="https://fcds.org.co/equipo/miryam-elizabeth-vargas-morales/" style="color: rgb(138, 36, 36); text-decoration: none;">Myriam Vargas</a>, <a href="https://fcds.org.co/equipo/cristian-salas/" style="color: rgb(138, 36, 36); text-decoration: none;">Cristian Salas</a>)
       </div>
+  </div>
+</div>
+
+  <!-- Title and PDF in a single row -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+    <div style="flex: 1; font-weight: bold; font-size: 16px;">
+      Private Conservation and Environmental Governance: The Role of Civil Society Nature Reserves in Colombia
+    </div>
   </div>
 </div>
 
@@ -228,7 +243,7 @@ nav_order: 2
   <!-- Title and PDF in a single row -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
     <div style="flex: 1; font-weight: bold; font-size: 16px;">
-      Fishery bans and local development
+      Extreme Temperature and Time-Use in Colombian cities
     </div>
   </div>
 </div>
