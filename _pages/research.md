@@ -50,7 +50,7 @@ nav_order: 2
         (with <a href="https://www.efdinitiative.org/about-efd/people/renau-jorge-marco" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Marco</a>)
       </div>
       <div style="margin-top: 4px; font-weight: 500; font-size: 13px; color: #555;">
-        Under Revision Environmental and Resource Economics 
+        R&R Environmental and Resource Economics 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Fuel_Subsidies_Fishing.pdf" 
@@ -82,7 +82,7 @@ nav_order: 2
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>, and <a style="color: rgb(138, 36, 36); text-decoration: none;">Rocio Moreno- Sanchez</a>)
       </div>
       <div style="margin-top: 4px; font-weight: 500; font-size: 13px; color: #555;">
-        Under Revision World Development 
+        R&R World Development 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Amazon_SDGN.pdf" 
@@ -113,7 +113,7 @@ nav_order: 2
         (with <a href="https://economia.uniandes.edu.co/maldonado" style="color: rgb(138, 36, 36); text-decoration: none;">Jorge Maldonado</a>)
       </div>
       <div style="margin-top: 4px; font-weight: 500; font-size: 13px; color: #555;">
-        In Preparation Marine Policy 
+        Under review Marine Policy 
       </div>
     </div>
     <a href="https://jorgephd.github.io/jlmontero.github.io/assets/papers/Esfuerzos_de_Pesca_y_MPAs.pdf" 
