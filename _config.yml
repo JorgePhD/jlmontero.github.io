@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jorge Montero # the website title (if blank, full name will be used instead)
-first_name: Jorge
+title: Jorge Luis Montero Mestre# the website title (if blank, full name will be used instead)
+first_name: Jorge Luis
 middle_name: 
-last_name: Montero
+last_name: Montero Mestre
 email: jl.montero@uniandes.edu.co
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
