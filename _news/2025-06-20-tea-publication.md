@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2025-06-20
 inline: true
 ---
