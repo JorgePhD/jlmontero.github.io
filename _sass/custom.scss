@@ -354,14 +354,24 @@ h1, h2, h3 {
   margin-bottom: 1rem;
 }
 
-/* =========================
-   ABOUT SUBTITLE
-========================= */
+/* =====================================================
+   SUBTITLE COLOR UNIFICATION
+===================================================== */
 
-.post-description,
+/* Apunta al subtítulo específico de la página About */
+.post-description, 
 .subtitle,
-.profile .desc {
-  color: #2A6F97 !important;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+.header-subtitle {
+    color: #2A6F97 !important;
+    font-weight: 500;           /* Un poco más de peso para que resalte */
+    opacity: 0.9;               /* Un toque de suavidad */
+    font-size: 1.15rem;         /* Tamaño ligeramente mayor para legibilidad */
+    margin-top: -0.5rem;        /* Lo acerca un poco más al nombre */
+    margin-bottom: 1.5rem;
+    display: block;
+}
+
+/* Si el subtítulo está dentro de la sección About del index */
+header p.post-description {
+    color: #0B1F33 !important;
 }
