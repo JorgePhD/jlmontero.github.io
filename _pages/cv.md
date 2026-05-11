@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 You can download the latest version of my CV below.
