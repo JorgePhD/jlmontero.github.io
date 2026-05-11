@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 I teach courses in environmental economics, impact evaluation, and applied econometrics at both the undergraduate and graduate levels. My teaching combines rigorous empirical methods with policy-oriented applications, with a strong emphasis on causal inference, environmental governance, and data analysis.
