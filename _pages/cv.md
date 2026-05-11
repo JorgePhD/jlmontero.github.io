@@ -6,13 +6,11 @@ nav: true
 nav_order: 3
 ---
 
-## Curriculum Vitae
-
 You can download the latest version of my CV below.
 
 <br>
 
-<a href="/assets/cv/cv.pdf" class="cv-button" target="_blank">
+<a href="https://github.com/JorgePhD/jlmontero.github.io/blob/master/assets/cv/cv.pdf" class="cv-button" target="_blank">
 Download CV (PDF)
 </a>
 
