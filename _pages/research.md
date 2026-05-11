@@ -21,7 +21,7 @@ nav_order: 2
 
       <div class="paper-authors">
         with
-        <a href="https://www.efdinitiative.org/about-efd/people/renau-jorge-marco">
+        <a href="https://www.udg.edu/ca/directori/pagina-personal?ID=113551">
           Jorge Marco
         </a>
       </div>
