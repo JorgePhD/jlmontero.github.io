@@ -313,60 +313,55 @@ h1, h2, h3 {
 }
 
 /* =========================
-   PROFILE IMAGE
-========================= */
-
-.profile img {
-  max-width: 230px !important;
-  border-radius: 14px;
-}
-
-/* =========================
-   ABOUT PAGE
+   PROFILE IMAGE REFINED
 ========================= */
 
 .profile {
-  margin-left: 2.5rem;
-  margin-bottom: 1rem;
+  width: 280px !important; /* Aumentamos un poco el tamaño */
+  margin-left: 3rem;      /* Espacio generoso entre texto y foto */
+  margin-bottom: 1.5rem;
+  float: right;           /* Aseguramos el flujo del texto */
 }
 
 .profile img {
-  width: 230px !important;
-  max-width: 230px !important;
-  border-radius: 14px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-  border: 1px solid #e5e7eb;
+  width: 100% !important;
+  max-width: 280px !important;
+  height: auto !important;
+  
+  /* En lugar de círculo perfecto, usamos esquinas redondeadas elegantes */
+  border-radius: 24px !important; 
+  
+  /* Sombra más profunda y moderna */
+  box-shadow: 0 12px 30px rgba(11, 31, 51, 0.12);
+  border: 1px solid rgba(0,0,0,0.05);
+  
+  transition: all 0.3s ease;
 }
 
+.profile img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(11, 31, 51, 0.18);
+}
+
+/* Ajuste para que el texto principal tenga buen peso visual */
 .post .post-content {
-  font-size: 1.03rem;
-  line-height: 1.85;
-  color: #374151;
+  text-align: justify;
+  hyphens: auto;
 }
 
-.post .post-content p {
-  margin-bottom: 1.2rem;
-}
-
-.post .post-content strong {
-  color: #111827;
-}
-
-/* Better spacing on mobile */
-
+/* Responsividad: Centrar foto en móviles */
 @media (max-width: 768px) {
-
   .profile {
-    margin-left: 0;
+    float: none !important;
+    width: 220px !important;
+    margin: 0 auto 2rem auto !important;
     text-align: center;
   }
-
+  
   .profile img {
-    width: 180px !important;
-    max-width: 180px !important;
+    max-width: 220px !important;
   }
 }
-
 /* =========================
    RECENT NEWS
 ========================= */
