@@ -26,6 +26,12 @@ Graduate Level · Universidad de los Andes
 <div class="paper-status">
 2025–Present
 </div>
+<a href="https://economia.uniandes.edu.co/sites/default/files/meca/pracademicos/202520/EconomiaAmbientalyRecursosNaturales-JorgeLuisMontero-202520.pdf"
+       target="_blank"
+       class="paper-button">
+      Syllabus
+    </a>
+  </div>
 
 </div>
 
