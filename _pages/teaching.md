@@ -11,7 +11,7 @@ I teach courses in environmental economics, impact evaluation, and applied econo
 
 ---
 
-<h2 class="research-section-title">Instructor of Record</h2>
+<h2 class="research-section-title">Courses Taught</h2>
 
 <div class="paper-card">
 
