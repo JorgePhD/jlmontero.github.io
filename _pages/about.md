@@ -6,8 +6,8 @@ subtitle: Environmental Economics | Natural Resources | Applied Econometrics
 
 profile:
   align: right
-  image: profile_pic.JPG
-  image_circular: false # crops the image to make it circular
+  image: profile_picture.JPG
+  image_circular: true # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
