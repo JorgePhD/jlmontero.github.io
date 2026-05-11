@@ -40,13 +40,17 @@ Statistical & R Programming Workshop
 </div>
 
 <div class="paper-authors">
-Graduate Workshop · Universidad de los Andes
+Undergraduate Workshop · Universidad de los Andes
 </div>
 
 <div class="paper-status">
 2024
 </div>
-
+<a href="https://economia.uniandes.edu.co/sites/default/files/pregrado/pracademicos/202510/Econ-1302-Taller-De-R-Programacion-y-Estadistica-2025-10-Jorge-Luis-Montero.pdf"
+       target="_blank"
+       class="paper-button">
+      Syllabus
+    </a>
 </div>
 
 <div class="paper-card">
@@ -62,7 +66,11 @@ Undergraduate Workshop · Universidad de los Andes
 <div class="paper-status">
 2023–2024
 </div>
-
+<a href="https://economia.uniandes.edu.co/sites/default/files/pregrado/pracademicos/202510/Econ-1300-Taller-De-Excel-2025-10-Jorge-Luis-Montero.pdf"
+       target="_blank"
+       class="paper-button">
+      Syllabus
+    </a>
 </div>
 
 <div class="paper-card">
