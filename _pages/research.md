@@ -235,7 +235,8 @@ nav_order: 2
       </div>
 
       <div class="paper-authors">
-        Marco, J. et al.
+        Jorge Marco · Miguel Ramirez · William Martinez · Iván Lizarazo · <strong>Jorge Montero-Mestre</strong> · Jorge Forero · Ali Kharrazi · Nadia Combariza · Alicia Correa
+</div>
       </div>
 
       <div class="paper-status">
