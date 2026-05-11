@@ -469,13 +469,13 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.02em; color: #111827 !importan
 
 .paper-authors a:hover { text-decoration: underline; }
 
-/* ===================================================== PROFILE IMAGE
-===================================================== */
-/* ===================================================== PROFILE IMAGE
-===================================================== */
-.profile { width: 250px !important; }
+/* ========================= PROFILE IMAGE
+========================= */
+.profile { width: 240px !important; margin-left: 2rem; }
 
-.profile img { width: 250px !important; max-width: 250px !important; height: auto !important; border-radius: 12px; box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12); }
+.profile img { width: 240px !important; height: 240px !important; object-fit: cover; object-position: center top; border-radius: 50% !important; border: 4px solid white; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12); transition: all 0.25s ease; }
+
+.profile img:hover { transform: scale(1.02); }
 
 /* ========================= RECENT NEWS
 ========================= */
