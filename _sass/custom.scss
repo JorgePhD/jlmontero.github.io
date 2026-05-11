@@ -320,3 +320,49 @@ h1, h2, h3 {
   max-width: 230px !important;
   border-radius: 14px;
 }
+
+/* =========================
+   ABOUT PAGE
+========================= */
+
+.profile {
+  margin-left: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.profile img {
+  width: 230px !important;
+  max-width: 230px !important;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  border: 1px solid #e5e7eb;
+}
+
+.post .post-content {
+  font-size: 1.03rem;
+  line-height: 1.85;
+  color: #374151;
+}
+
+.post .post-content p {
+  margin-bottom: 1.2rem;
+}
+
+.post .post-content strong {
+  color: #111827;
+}
+
+/* Better spacing on mobile */
+
+@media (max-width: 768px) {
+
+  .profile {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .profile img {
+    width: 180px !important;
+    max-width: 180px !important;
+  }
+}
