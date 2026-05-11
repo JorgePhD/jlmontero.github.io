@@ -31,8 +31,6 @@ Graduate Level · Universidad de los Andes
        class="paper-button">
       Syllabus
     </a>
-  </div>
-
 </div>
 
 <div class="paper-card">
