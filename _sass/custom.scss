@@ -17,26 +17,6 @@ body {
     margin: auto;
 }
 
-/* =====================================================
-   PROFILE IMAGE
-===================================================== */
-
-/* =====================================================
-   PROFILE IMAGE
-===================================================== */
-
-.profile {
-    width: 250px !important;
-}
-
-.profile img {
-    width: 250px !important;
-    max-width: 250px !important;
-    height: auto !important;
-
-    border-radius: 12px;
-    box-shadow: 0 8px 22px rgba(0,0,0,0.12);
-}
 
 /* =====================================================
    TITLES
@@ -313,35 +293,24 @@ h1, h2, h3 {
 }
 
 /* =====================================================
-   PROFILE IMAGE - NANCY WANG STYLE
+   PROFILE IMAGE
+===================================================== */
+
+/* =====================================================
+   PROFILE IMAGE
 ===================================================== */
 
 .profile {
-    width: 340px !important; /* Tamaño más grande similar a la referencia */
-    float: right;            /* Alineación a la derecha */
-    margin-left: 2.5rem;     /* Espacio para que el texto no toque la foto */
-    margin-bottom: 1rem;
-    margin-top: 1rem;        /* Alinea un poco mejor con el inicio del texto */
+    width: 250px !important;
 }
 
 .profile img {
-    width: 100% !important;
-    max-width: 340px !important;
+    width: 250px !important;
+    max-width: 250px !important;
     height: auto !important;
-    
-    /* Mantén el círculo perfecto */
-    border-radius: 50% !important; 
-    
-    /* Efecto sutil de sombra */
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-    border: none;
-}
 
-/* Mejora la legibilidad del texto al lado de una imagen grande */
-.post .post-content p {
-    text-align: left; /* La referencia no justifica el texto */
-    line-height: 1.6;
-    font-size: 1.05rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 22px rgba(0,0,0,0.12);
 }
 /* =========================
    RECENT NEWS
