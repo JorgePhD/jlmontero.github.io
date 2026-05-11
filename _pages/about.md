@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: Environmental and Resource Economist | Applied Econometrics | Environmental Governance
+subtitle: Environmental Economics | Natural Resources | Applied Econometrics
 
 profile:
-  align: rigth
+  align: right
   image: profile_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
@@ -16,16 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Postdoctoral Researcher in the Department of Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) and a Research Associate affiliated with the [SDG Nexus Network](https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus) at Justus Liebig University Giessen, Germany. 
+I am a Postdoctoral Researcher in the Department of Economics at [Universidad de los Andes](https://economia.uniandes.edu.co/) and a Research Associate at the [SDG Nexus Network](https://www.uni-giessen.de/de/fbz/zentren/zeu/sdgnexus), Justus Liebig University Giessen.
 
-My research lies at the intersection of environmental and resource economics, development economics, and political economy. Using causal inference, remote sensing, and geospatial data, I study environmental governance, conservation policy, fisheries, forests, and common-pool resources in developed and developing countries.
+My research lies at the intersection of environmental and resource economics, political economy, and applied econometrics. I study how institutions, incentives, and environmental policies shape the management of fisheries, forests, and other common-pool resources using causal inference, remote sensing, and geospatial data.
 
-I teach courses in Impact Evaluation and Environmental and Natural Resource Economics at the undergraduate and graduate levels.
+I teach courses in Impact Evaluation and Environmental and Natural Resource Economics at both the undergraduate and graduate levels.
 
-**Research Interests**
-
-- Environmental and Resource Economics
-- Political Economy of Natural Resources
-- Conservation Policy
-- Remote Sensing and Geospatial Analysis
-- Applied Econometrics
+**Research Interests:** Environmental and Resource Economics, Political Economy of Natural Resources, Conservation Policy, Remote Sensing and Geospatial Analysis, Applied Econometrics.
