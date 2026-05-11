@@ -312,55 +312,36 @@ h1, h2, h3 {
   text-decoration: underline;
 }
 
-/* =========================
-   PROFILE IMAGE REFINED
-========================= */
+/* =====================================================
+   PROFILE IMAGE - NANCY WANG STYLE
+===================================================== */
 
 .profile {
-  width: 280px !important; /* Aumentamos un poco el tamaño */
-  margin-left: 3rem;      /* Espacio generoso entre texto y foto */
-  margin-bottom: 1.5rem;
-  float: right;           /* Aseguramos el flujo del texto */
+    width: 340px !important; /* Tamaño más grande similar a la referencia */
+    float: right;            /* Alineación a la derecha */
+    margin-left: 2.5rem;     /* Espacio para que el texto no toque la foto */
+    margin-bottom: 1rem;
+    margin-top: 1rem;        /* Alinea un poco mejor con el inicio del texto */
 }
 
 .profile img {
-  width: 100% !important;
-  max-width: 280px !important;
-  height: auto !important;
-  
-  /* En lugar de círculo perfecto, usamos esquinas redondeadas elegantes */
-  border-radius: 24px !important; 
-  
-  /* Sombra más profunda y moderna */
-  box-shadow: 0 12px 30px rgba(11, 31, 51, 0.12);
-  border: 1px solid rgba(0,0,0,0.05);
-  
-  transition: all 0.3s ease;
+    width: 100% !important;
+    max-width: 340px !important;
+    height: auto !important;
+    
+    /* Mantén el círculo perfecto */
+    border-radius: 50% !important; 
+    
+    /* Efecto sutil de sombra */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border: none;
 }
 
-.profile img:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 15px 35px rgba(11, 31, 51, 0.18);
-}
-
-/* Ajuste para que el texto principal tenga buen peso visual */
-.post .post-content {
-  text-align: justify;
-  hyphens: auto;
-}
-
-/* Responsividad: Centrar foto en móviles */
-@media (max-width: 768px) {
-  .profile {
-    float: none !important;
-    width: 220px !important;
-    margin: 0 auto 2rem auto !important;
-    text-align: center;
-  }
-  
-  .profile img {
-    max-width: 220px !important;
-  }
+/* Mejora la legibilidad del texto al lado de una imagen grande */
+.post .post-content p {
+    text-align: left; /* La referencia no justifica el texto */
+    line-height: 1.6;
+    font-size: 1.05rem;
 }
 /* =========================
    RECENT NEWS
