@@ -10,7 +10,7 @@ You can download the latest version of my CV below.
 
 <br>
 
-<a href="https://github.com/JorgePhD/jlmontero.github.io/blob/master/assets/cv/cv.pdf" class="cv-button" target="_blank">
+<a href="https://jorgephd.github.io/jlmontero.github.io/assets/cv/cv.pdf" class="cv-button" target="_blank">
 Download CV (PDF)
 </a>
 
