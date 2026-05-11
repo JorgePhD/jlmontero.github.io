@@ -1,0 +1,93 @@
+/* =====================================================
+   GLOBAL TYPOGRAPHY
+===================================================== */
+
+body {
+    font-size: 18px;
+    line-height: 1.75;
+    font-weight: 400;
+}
+
+/* =====================================================
+   PAGE WIDTH
+===================================================== */
+
+.post {
+    max-width: 920px;
+    margin: auto;
+}
+
+/* =====================================================
+   PROFILE IMAGE
+===================================================== */
+
+.profile img {
+    max-width: 270px;
+    border-radius: 10px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.10);
+}
+
+/* =====================================================
+   TITLES
+===================================================== */
+
+h1 {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 1.2rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* =====================================================
+   NAVBAR
+===================================================== */
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* =====================================================
+   LINKS
+===================================================== */
+
+a {
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+/* =====================================================
+   CV BUTTON
+===================================================== */
+
+.cv-button {
+    background-color: #8B1E1E;
+    color: white !important;
+    padding: 14px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+    transition: 0.2s ease;
+}
+
+.cv-button:hover {
+    opacity: 0.92;
+    transform: translateY(-1px);
+}
+
+/* =====================================================
+   ABOUT PAGE SPACING
+===================================================== */
+
+.post p {
+    margin-bottom: 1.2rem;
+}
