@@ -22,4 +22,8 @@ My research lies at the intersection of environmental and resource economics, po
 
 I teach courses in Impact Evaluation and Environmental and Natural Resource Economics at both the undergraduate and graduate levels.
 
-**Research Interests:** Environmental and Resource Economics, Political Economy of Natural Resources, Conservation Policy, Remote Sensing and Geospatial Analysis, Applied Econometrics.
+**Research Areas**
+
+**Primary:** Environmental and Resource Economics, Political Economy of Natural Resources, Conservation Policy.
+
+**Secondary:** Applied Econometrics, Causal Inference, Remote Sensing and Geospatial Analysis.
