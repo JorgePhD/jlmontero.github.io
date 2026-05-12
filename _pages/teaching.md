@@ -44,7 +44,7 @@ Undergraduate Workshop · Universidad de los Andes
 </div>
 
 <div class="paper-status">
-2024
+2024-2025
 </div>
 <a href="https://economia.uniandes.edu.co/sites/default/files/pregrado/pracademicos/202510/Econ-1302-Taller-De-R-Programacion-y-Estadistica-2025-10-Jorge-Luis-Montero.pdf"
        target="_blank"
@@ -64,7 +64,7 @@ Undergraduate Workshop · Universidad de los Andes
 </div>
 
 <div class="paper-status">
-2023–2024
+2023–2025
 </div>
 <a href="https://economia.uniandes.edu.co/sites/default/files/pregrado/pracademicos/202510/Econ-1300-Taller-De-Excel-2025-10-Jorge-Luis-Montero.pdf"
        target="_blank"
