@@ -63,7 +63,7 @@ nav_order: 2
 
       <div class="paper-authors">
         with
-        <a href="https://economia.uniandes.edu.co/maldonado">Jorge Maldonado</a>,
+        <a href="https://economia.uniandes.edu.co/maldonado">Jorge Maldonado</a>, and
         Rocío Moreno-Sánchez
       </div>
 
@@ -107,7 +107,8 @@ nav_order: 2
         with
         <a href="https://economia.uniandes.edu.co/maldonado">Jorge Maldonado</a>,
         Rocío Moreno-Sánchez,
-        and Myriam Vargas-Morales
+        and <a href="https://fcds.org.co/equipo/miryam-elizabeth-vargas-morales/">
+      Myriam Vargas</a>
       </div>
 
       <div class="paper-status">
@@ -286,8 +287,7 @@ nav_order: 2
   <div class="paper-authors">
     with
     <a href="https://fcds.org.co/equipo/miryam-elizabeth-vargas-morales/">
-      Myriam Vargas
-    </a>,
+      Myriam Vargas</a>, and
     <a href="https://fcds.org.co/equipo/cristian-salas/">
       Cristian Salas
     </a>
@@ -303,8 +303,7 @@ nav_order: 2
   <div class="paper-authors">
     with
     <a href="https://ucentralasia.org/faculty-and-staff/dr-begaiym-emileva">
-      Begayim Emileva
-    </a>,
+      Begayim Emileva</a>, and 
     <a href="https://www.uni-giessen.de/en/faculties/f09/institutes/agri/policy/team/petrick">
       Martin Petrick
     </a>
