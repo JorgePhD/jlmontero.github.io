@@ -240,7 +240,7 @@ nav_order: 2
 
 <div class="paper-card">
   <div class="paper-title">
-    Drilling into the Forest: How Mineral Explorations Reshape Land-Use in Colombia
+    Unpacking the Extractive Frontier: Sequential Exploration, Physical Drilling, and Environmental Degradation in Colombia
   </div>
 
   <div class="paper-authors">
