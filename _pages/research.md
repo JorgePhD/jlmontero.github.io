@@ -27,7 +27,7 @@ nav_order: 2
       </div>
 
       <div class="paper-status">
-        R&amp;R — Environmental and Resource Economics
+        R&amp;R (2nd round) — Environmental and Resource Economics
       </div>
     </div>
 
